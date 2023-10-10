@@ -15,6 +15,7 @@ public class MovieTestDrive {
         filme2.avaliacao = 5;
         filme2.playIt();
 
+
         Movie filme3 = new Movie();
         filme3.titulo = "American Pie";
         filme3.genero = "Comedia";
